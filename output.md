@@ -1,5 +1,6 @@
 Listado de rutas de carpetas para el volumen Data
-El n£mero de serie del volumen es 000000B5 305A:CCB4
+El nÂ£mero de serie del volumen es 000000B5 305A:CCB4
+'''
 D:.
 |   Configuration.h
 |   Configuration_adv.h
@@ -1754,3 +1755,4 @@ D:.
                             USB_HOST_SHIELD.h
                             USB_HOST_SHIELD_INLINE.h
                             
+'''
